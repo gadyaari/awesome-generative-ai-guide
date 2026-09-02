@@ -6,6 +6,7 @@ Transcripts, resources, and sources for every video on my channel.
 
 | Video | What it covers | Published |
 |---|---|---|
+| [16 Research Backed Tips That Make Claude Code 10x Better (& Cheaper!)](claude-code-5-levels.md) | The 5 levels of working with Claude Code and Codex, and 16 tips with the prompts to apply them | 2026-09-02 |
 | [AI Engineering Has Changed: The 5 Concepts You Need in 2026](five-shifts-ai-engineering.md) | Prompt, context, harness, loop, and graph engineering, and how each one was born from the last | 2026-08-27 |
 | [Is RAG Dead?](is-rag-dead.md) | What RAG is, the 3 camps calling it dead, and which of them are right | 2026-08-18 |
 | [Building AI Agents That Actually Work](ai-automation-mistakes.md) | The 4 mistakes that waste the most time automating with AI | 2026-08-04 |
@@ -16,6 +17,6 @@ Transcripts, resources, and sources for every video on my channel.
 
 ---
 
-Every file has the video link, what the video covers, the resources mentioned, sources for any external claims, and the full transcript.
+Every file has the video link, what the video covers, the resources mentioned, sources for any external claims, and the full transcript. Some videos also have a companion file you can hand to your agent, like the [16 Claude Code tips](claude-code-16-tips.md).
 
 Spotted a mistake? [Open an issue](https://github.com/aishwaryanr/awesome-generative-ai-guide/issues) and I will correct it here.
