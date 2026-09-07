@@ -27,5 +27,5 @@ jobs:
           upstream_sync_repo: aishwaryanr/awesome-generative-ai-guide
           upstream_sync_branch: main
           target_sync_branch: main
-          git_user_email: action@github.com
-          git_user_name: GitHub Action
+          git_config_email: action@github.com
+          git_config_user: GitHub Action
